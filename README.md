@@ -1,6 +1,7 @@
 # PreRequisitos
 * [Git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git#setting-up-git). Check on Git Bash `git --version`
 * [GitHub Desktop](https://desktop.github.com/)
+* [NodeJs](https://nodejs.org/en/download/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 # Tecnologías
