@@ -42,5 +42,5 @@ Debe tener npm instalado globalmente para poder utilizar este entorno de compila
 [Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
 # Links Útiles
-*[Template original](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
-*[How to Make a Simple Website for Beginners (Bootstrap themes, GitHub pages)](https://www.youtube.com/watch?v=dKDMt04wZrk&feature=youtu.be&ab_channel=CassidyMorgan)
+* [Template original](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
+* [How to Make a Simple Website for Beginners (Bootstrap themes, GitHub pages)](https://www.youtube.com/watch?v=dKDMt04wZrk&feature=youtu.be&ab_channel=CassidyMorgan)
