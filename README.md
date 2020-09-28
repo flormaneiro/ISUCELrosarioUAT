@@ -18,7 +18,7 @@
 
 ### Básico
 
-Después de la descarga, simplemente edite los archivos HTML y CSS incluidos con la plantilla en su editor de texto favorito para realizar cambios. Estos son los únicos archivos de los que debe preocuparse, ¡puede ignorar todo lo demás! Para obtener una vista previa de los cambios que realiza en el código, puede abrir el archivo `index.html` 
+Después de la descarga, simplemente edite los archivos HTML y CSS incluidos con la plantilla en su editor de texto favorito o con [Visual Studio Code](https://code.visualstudio.com/) para realizar cambios. Estos son los únicos archivos de los que debe preocuparse, ¡puede ignorar todo lo demás! Para obtener una vista previa de los cambios que realiza en el código, puede abrir el archivo `index.html` 
 en su navegador web.
 
 ### Avanzado
