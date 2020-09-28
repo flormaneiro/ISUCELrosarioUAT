@@ -10,32 +10,28 @@
 
 ## Descarga e instalación
 
-To begin using this template, choose one of the following options to get started:
+* Clone the repo: `git clone https://github.com/flormaneiro/ISUCELrosario.git`
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/stylish-portfolio/)
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
 
-## Usage
+## Uso
 
-### Basic Usage
+### Básico
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+Después de la descarga, simplemente edite los archivos HTML y CSS incluidos con la plantilla en su editor de texto favorito para realizar cambios. Estos son los únicos archivos de los que debe preocuparse, ¡puede ignorar todo lo demás! Para obtener una vista previa de los cambios que realiza en el código, puede abrir el archivo `index.html` 
+en su navegador web.
 
-### Advanced Usage
+### Avanzado
+Después de la instalación, ejecute `npm install` y luego ejecute` npm start`, que abrirá una vista previa de la plantilla en su navegador predeterminado, observe los cambios en los archivos de la plantilla principal y vuelva a cargar el navegador en vivo cuando se guarden los cambios. Puede ver el archivo `gulpfile.js` para ver qué tareas están incluidas en el entorno de desarrollo.
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+#### Tareas por comnandos
 
-#### Gulp Tasks
+* `gulp` la tarea predeterminada que construye todo
+* `gulp watch` browserSync abre el proyecto en su navegador predeterminado y se vuelve a cargar cuando se realizan cambios
+* `gulp css` compila archivos SCSS en CSS y minimiza el CSS compilado
+* `gulp js` minimiza el archivo JS de temas
+* `gulp vendor` copia las dependencias de node_modules al directorio vendor
 
-* `gulp` the default task that builds everything
-* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-* `gulp js` minifies the themes JS file
-* `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm installed globally in order to use this build environment.
+Debe tener npm instalado globalmente para poder utilizar este entorno de compilación.
 
 # Ambientes
 * Producción: https://flormaneiro.github.io/ISUCELrosario/
