@@ -22,7 +22,7 @@ Después de la descarga, simplemente edite los archivos HTML y CSS incluidos con
 en su navegador web.
 
 ### Avanzado
-Después de la instalación, ejecute `npm install` y luego ejecute` npm start`, que abrirá una vista previa de la plantilla en su navegador predeterminado, observe los cambios en los archivos de la plantilla principal y vuelva a cargar el navegador en vivo cuando se guarden los cambios. Puede ver el archivo `gulpfile.js` para ver qué tareas están incluidas en el entorno de desarrollo.
+Después de la instalación, abra una nueva terminar dentro de Visual Studio Code, ejecute `npm install`, luego ejecute ` npm audit fix` y luego ejecute ` npm start`, que abrirá una vista previa de la plantilla en su navegador predeterminado, observe los cambios en los archivos de la plantilla principal y vuelva a cargar el navegador en vivo cuando se guarden los cambios. Puede ver el archivo `gulpfile.js` para ver qué tareas están incluidas en el entorno de desarrollo.
 
 #### Tareas por comnandos
 
