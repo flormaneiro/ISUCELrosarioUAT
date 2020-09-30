@@ -38,8 +38,8 @@ Debe tener npm instalado globalmente para poder utilizar este entorno de compila
 * Producción: https://flormaneiro.github.io/ISUCELrosario/
 
 # Tema
-[Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/)
-[Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+* [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/)
+* [Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
 # Links Útiles
 * [Fuentes del template original](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
